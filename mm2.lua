@@ -9140,7 +9140,7 @@ return {
     ["ItemID"] = 203808108,
     ["Rarity"] = "Uncommon",
     ["Image"] = "http://www.roblox.com/Thumbs/Asset.ashx?format=png&width=250&height=250&assetId=203808108",
-  },
+  
   ["Engraved"] = {
     ["ItemName"] = "Engraved",
     ["ItemType"] = "Gun",
